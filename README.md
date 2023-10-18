@@ -1,6 +1,8 @@
+# Hospital- Patient Readmittance Classification
+## By Daniel Chang and Joey Hernandez
+
 ![Copy of Beer   brewery (250 × 250 px)(17)](https://github.com/joeyhdz/super_conductor-regression/assets/81498617/51a9a45d-fab7-4132-84d8-f77b997c2e72)
 
-# Hospital- Patient Readmittance Classification
 
 ## Introduction
 <hr>
